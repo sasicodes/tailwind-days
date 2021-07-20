@@ -1,4 +1,4 @@
-Tool used - [TailwindCSS Play](https://play.tailwindcss.com/?ref=lagandlog.com).
+Tool used - [Codepen](https://codepen.io/?ref=lagandlog.com).
 # Preview Links
 
-- [android_v11.html](https://play.tailwindcss.com/4ISYkeVW9x)
+- [android_v11.html](https://codepen.io/sasiKdharan/pen/LYyjOZM)
