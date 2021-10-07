@@ -6,6 +6,4 @@ A utility-first CSS framework packed with classes like flex, pt-4, text-center a
 [Learn more about Tailwind](https://tailwindcss.com/?ref=lagandlog.com)
 
 # Tools Used
-[Codepen](https://codepen.io/?ref=lagandlog.com).
-
-[Codepen](http://codepen.io/?ref=lagandlog.com)
+[Codepen](https://codepen.io/?ref=lagandlog.com)
